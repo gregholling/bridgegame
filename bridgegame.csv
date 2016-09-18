@@ -1,0 +1,55 @@
+game,table,team,players,team,players
+1,1,10,Mary Fike & Norma Whitney,14,Diane Peck & Henry Weibler
+1,2,11,Jean Frazier & Jan Sangster,15,Dick Radow & Phil Steekley
+1,3,4,Anita Bittle & Ray Bittle,16,TBD & TBD
+1,4,2,Dolores Bertrand & Bob Bertrand,6,Shirley Coen & Mike Coen
+1,5,3,Pam Bianchi & Selwyn Edwards,5,Barbara Calkins & Ken Calkins
+1,6,1,Chuck Alexander & Shirley Alexander,12,Janie Hawkins & Jim Hawkins
+1,7,7,Ann Cornick & Janet Graham,9,Kathryn Elisha & Norma Shuette
+1,8,8,Janay Downing & Gail Reynolds,13,Betty Holling & Doug Holling
+
+2,1,5,Barbara Calkins & Ken Calkins,15,Dick Radow & Phil Steekley
+2,2,7,Ann Cornick & Janet Graham,12,Janie Hawkins & Jim Hawkins
+2,3,9,Kathryn Elisha & Norma Shuette,14,Diane Peck & Henry Weibler
+2,4,1,Chuck Alexander & Shirley Alexander,16,TBD & TBD
+2,5,3,Pam Bianchi & Selwyn Edwards,11,Jean Frazier & Jan Sangster
+2,6,2,Dolores Bertrand & Bob Bertrand,13,Betty Holling & Doug Holling
+2,7,6,Shirley Coen & Mike Coen,8,Janay Downing & Gail Reynolds
+2,8,4,Anita Bittle & Ray Bittle,10,Mary Fike & Norma Whitney
+
+3,1,4,Anita Bittle & Ray Bittle,8,Janay Downing & Gail Reynolds
+3,2,5,Barbara Calkins & Ken Calkins,14,Diane Peck & Henry Weibler
+3,3,3,Pam Bianchi & Selwyn Edwards,7,Ann Cornick & Janet Graham
+3,4,1,Chuck Alexander & Shirley Alexander,11,Jean Frazier & Jan Sangster
+3,5,13,Betty Holling & Doug Holling,15,Dick Radow & Phil Steekley
+3,6,2,Dolores Bertrand & Bob Bertrand,16,TBD & TBD
+3,7,10,Mary Fike & Norma Whitney,12,Janie Hawkins & Jim Hawkins
+3,8,6,Shirley Coen & Mike Coen,9,Kathryn Elisha & Norma Shuette
+
+4,1,14,Diane Peck & Henry Weibler,16,TBD & TBD
+4,2,5,Barbara Calkins & Ken Calkins,12,Janie Hawkins & Jim Hawkins
+4,3,2,Dolores Bertrand & Bob Bertrand,10,Mary Fike & Norma Whitney
+4,4,3,Pam Bianchi & Selwyn Edwards,15,Dick Radow & Phil Steekley
+4,5,4,Anita Bittle & Ray Bittle,7,Ann Cornick & Janet Graham
+4,6,6,Shirley Coen & Mike Coen,13,Betty Holling & Doug Holling
+4,7,1,Chuck Alexander & Shirley Alexander,9,Kathryn Elisha & Norma Shuette
+4,8,8,Janay Downing & Gail Reynolds,11,Jean Frazier & Jan Sangster
+
+5,1,1,Chuck Alexander & Shirley Alexander,4,Anita Bittle & Ray Bittle
+5,2,2,Dolores Bertrand & Bob Bertrand,11,Jean Frazier & Jan Sangster
+5,3,9,Kathryn Elisha & Norma Shuette,12,Janie Hawkins & Jim Hawkins
+5,4,14,Diane Peck & Henry Weibler,15,Dick Radow & Phil Steekley
+5,5,3,Pam Bianchi & Selwyn Edwards,8,Janay Downing & Gail Reynolds
+5,6,5,Barbara Calkins & Ken Calkins,13,Betty Holling & Doug Holling
+5,7,7,Ann Cornick & Janet Graham,16,TBD & TBD
+5,8,6,Shirley Coen & Mike Coen,10,Mary Fike & Norma Whitney
+
+6,1,3,Pam Bianchi & Selwyn Edwards,14,Diane Peck & Henry Weibler
+6,2,8,Janay Downing & Gail Reynolds,16,TBD & TBD
+6,3,1,Chuck Alexander & Shirley Alexander,10,Mary Fike & Norma Whitney
+6,4,2,Dolores Bertrand & Bob Bertrand,15,Dick Radow & Phil Steekley
+6,5,5,Barbara Calkins & Ken Calkins,9,Kathryn Elisha & Norma Shuette
+6,6,12,Janie Hawkins & Jim Hawkins,13,Betty Holling & Doug Holling
+6,7,4,Anita Bittle & Ray Bittle,6,Shirley Coen & Mike Coen
+6,8,7,Ann Cornick & Janet Graham,11,Jean Frazier & Jan Sangster
+
